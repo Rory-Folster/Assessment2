@@ -1,5 +1,6 @@
 body {
-    background-color: #dce8e4;
+     background-image: linear-gradient(to right, #dce8e4, #AEAEAE );
+  background-color: (lin);
   }
   
 
@@ -36,8 +37,12 @@ body {
   
   /* Style the active/current link*/
   .header a.active {
-    background-color: dodgerblue;
+     background-color: dodgerblue;
     color: white;
+    margin-left: 5px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
   }
   
   /* Float the link section to the right */
