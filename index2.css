@@ -61,3 +61,21 @@ body {
       float: none;
     }
   }
+
+.button1:hover {
+    box-shadow:
+    1px 1px #dce8e4,
+    2px 2px #dce8e4,
+    3px 3px #dce8e4;
+-webkit-transform: translateX(-3px);
+transform: translateX(-3px);
+}
+
+.button2:hover {
+    box-shadow:
+    1px 1px #dce8e4,
+    2px 2px #dce8e4,
+    3px 3px #dce8e4;
+-webkit-transform: translateX(-3px);
+transform: translateX(-3px);
+}
