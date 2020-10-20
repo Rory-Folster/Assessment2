@@ -29,3 +29,7 @@ To fill in any miss-understandings or missed knowledge within HTML/CSS I will co
 I really want to further understand how these two languages work and what the limits are. The CSS I have used in this website is very basic as i wanted to keep it my own work and use minimal Copy/Paste from W3, Stack Overflow etc.
 
 Overall I am pretty happy with how my project turned out, even though I would say its on the basic side, I have learnt a lot of things, specically CSS and Styling. 
+
+
+
+My MoqUps - https://app.moqups.com/YSWzYbZBAQ/edit/page/ad64222d5
