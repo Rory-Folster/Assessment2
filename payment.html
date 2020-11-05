@@ -65,11 +65,14 @@ justify-content: center;
     <label for="fname" style="font-family:verdana">Phone Number</label><br>
     <input type="text" id="fname" name="fname" style="font-size:17pt;height:24px"><br><br>
 </form> 
-<a href="index.html"><button style="
-    display: flex;
-    justify-content: center;
-    font-family:verdana;
+<a href="index.html"><button id="submitBtn" onclick="myFunction()" style="display: flex; justify-content: center; font-family:verdana;
     ">Submit</button></a>
+        <script>
+        function myFunction() {
+            var text1 = "Thank you, you will know be redirected to the Home Page."
+            alert(text1)
+        }
+    </script>
 
 </body>
 </html> 
