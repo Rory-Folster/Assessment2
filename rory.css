@@ -56,6 +56,10 @@ transform: translateX(-3px);
   .header a.active {
     background-color: dodgerblue;
     color: white;
+    margin-left: 5px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
   }
   
   .header-right {
