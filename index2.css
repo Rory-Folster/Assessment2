@@ -68,6 +68,8 @@ transform: translateX(-3px);
     3px 3px #dce8e4;
 -webkit-transform: translateX(-3px);
 transform: translateX(-3px);
+    transition: all 0.5s;
+    cursor: pointer;
 }
 
 .button2:hover {
@@ -77,4 +79,6 @@ transform: translateX(-3px);
     3px 3px #dce8e4;
 -webkit-transform: translateX(-3px);
 transform: translateX(-3px);
+    transition: all 0.5s;
+    cursor: pointer;
 }
