@@ -43,3 +43,9 @@ When i first looked at the tasks, I thought it would be fairly easy. As i starte
 I realise that this is not a secure way to create a functioning login page at all, but it was a good learning curve and it was interesting to further understand javascript, compaired to the tasks I was given in SDV502 this was a lot more fun and it was easier to understand what it was doing as it was put into context. I believe a beneficial addition to the Level 5 I.T degree would be to switch around the WEB and SDV classes, as i believe it would be easier to learn JavaScript after using it in a real system like a webpage. 
 
 The reason why I have learnt the skills involved with Assessment 3 are because it's always good to brush up on my javascript, html and css knowledge and revisit some of the old topics that i have learnt about. I can also see localStorage becoming useful int he future if i was to go down the software development path. It is also good to add more functionality to my web page. The hardest part of the website design was creating a completely responsive site. 
+
+References;
+
+Window localStorage Property. (n.d.). W3Schools. Retrieved November 22, 2020, from https://www.w3schools.com/jsref/prop_win_localstorage.asp
+onclick Event. (n.d.). W3Schools. Retrieved November 22, 2020, from https://www.w3schools.com/jsref/event_onclick.asp
+user5616242. (2015, December 15). JavaScript: Login/Register with localStorage. Stack Overflow. https://stackoverflow.com/questions/34299555/javascript-login-register-with-localstorage
